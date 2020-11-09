@@ -1,3 +1,5 @@
 Hola soy alfredo
 nacì en oaxaca mexico
 esto es una prueba de git
+tengo 24 años
+me gusta andar en bici y pasear en moto
